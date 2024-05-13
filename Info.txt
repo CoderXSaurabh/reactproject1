@@ -1,0 +1,58 @@
+npx create-react-app Project
+
+Bootstrap -> npm install bootstarp -> css , js
+
+fontawesome icons : npm i @fortawesome/fontawesome-free -> css
+
+Connect fontawesome cdn link to html page 
+
+axios -> npm install axios 
+
+react-router-dom -> npm install react-router-dom
+
+Components :- 
+    navbar 
+    contact-list 
+    view-contact
+    edit-contact
+    create-contact
+
+Services :-
+    contactService
+
+
+JSON-SERVER :- (npm install json-server)
+        json file -> db.json
+        package.json -> npm init --yes
+
+
+db.json 
+"contacts":[
+        {
+            "id" : "AA@$S123",
+            "name": "Saurabh",
+            "Photo" : "https://tse2.explicit.bing.net/th?id=OIP.e1KNYwnuhNwNj7_-98yTRwHaF7&pid=Api&P=0&h=180",
+            "mobile" : "9359140472",
+            "email": "patilsaurabh5122001@gmail.com",
+            "tital":"software Developer",
+            "company":"Accenture",
+            "group":"1"
+        }
+    ],
+    "groups":[
+        {
+            "id":"1",
+            "name":"collegue"
+        }
+    ]
+
+
+
+    --------------------------------------------------------------------------------------------------------------------------------
+
+    API's 
+    GET all Contacts : GET -> http://localhost:9000/contacts
+    GET a single contact : GET -> http://localhost:9000/contacts/Id
+    Create a contact : POST -> http://localhost:9000/contacts
+    Update a Contact : PUT -> http://localhost:9000/contacts/id
+    Delete a Contact : DELETE -> http://localhost:9000/contacts/id

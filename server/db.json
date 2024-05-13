@@ -1,0 +1,110 @@
+{
+  "contacts": [
+    {
+      "id": "abcdef",
+      "name": "Saurabh Patil",
+      "company": "Accenture",
+      "email": "patilsaurabh5122001@gmail.com",
+      "title": "Developer",
+      "mobile": "9359140472",
+      "photo": "https://cdn-icons-png.flaticon.com/128/6071/6071588.png",
+      "groupId": "3"
+    },
+    {
+      "id": "abcdeg",
+      "name": "Nilesh Gaikwad",
+      "company": "Accenture",
+      "email": "nileshgaikwad121315@gmail.com",
+      "title": "Developer",
+      "mobile": "7776011322",
+      "photo": "https://cdn1.iconfinder.com/data/icons/user-avatars-2/300/10-1024.png",
+      "groupId": "3"
+    },
+    {
+      "id": "abcdeh",
+      "name": "Sejal Godse",
+      "company": "JSpiders",
+      "email": "sejalgodse1213@gmail.com",
+      "title": "Trainer",
+      "mobile": "8788137641",
+      "photo": "https://icons.veryicon.com/png/System/Small%20%26%20Flat/user%20female.png",
+      "groupId": "2"
+    },
+    {
+      "id": "abcdei",
+      "name": "Madhumati Mahakunde",
+      "company": "WNS",
+      "email": "mmhoney@gmail.com",
+      "title": "accountant",
+      "mobile": "9699036364",
+      "photo": "https://tse4.mm.bing.net/th?id=OIP.WpnGIPj1DKAGo-CP64znTwHaHa&pid=Api&P=0&h=180",
+      "groupId": "2"
+    },
+    {
+      "id": "bd77",
+      "name": "Ritesh Pedhekar",
+      "photo": "http://pluspng.com/img-png/user-png-icon-young-user-icon-2400.png",
+      "mobile": "9146168586",
+      "email": "riteshpedhekar554@gmail.com",
+      "company": "TCS",
+      "title": "software developer",
+      "groupId": "3"
+    },
+    {
+      "id": "802b",
+      "name": "Vaibhav Thankar",
+      "photo": "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg",
+      "mobile": "8552031128",
+      "email": "thanekarvaibhav8552@gmail.com",
+      "company": "Wipro",
+      "title": "Accountant",
+      "groupId": "2"
+    },
+    {
+      "id": "0bb6",
+      "name": "Abhishek Koli",
+      "photo": "https://static.vecteezy.com/system/resources/previews/000/439/863/original/vector-users-icon.jpg",
+      "mobile": "8483868352",
+      "email": "koliabhi2000@gmail.com",
+      "company": "Jio",
+      "title": "Hr",
+      "groupId": "2"
+    },
+    {
+      "id": "8a89",
+      "name": "Ganesh Mahendrakar",
+      "photo": "https://www.pngitem.com/pimgs/m/22-220721_circled-user-male-type-user-colorful-icon-png.png",
+      "mobile": "7741002153",
+      "email": "ganeshmahendrakarras@gmail.com",
+      "company": "Tech Mahindra",
+      "title": "Software Engineer",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "collegue"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
